@@ -14,4 +14,4 @@ Use hourly water level data from the [Coastwide Reference Monitoring System](htt
 
 ### Executing program
 
-* Run entire script at once.
+* Run entire script called "predicting_CRMStide_3_12_25.m" at once.
